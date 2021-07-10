@@ -1,0 +1,1 @@
+Prática de TypeScript realizada durante o Treinamento da Hiring Coders promovido pela Gama Academy VTEX. 
